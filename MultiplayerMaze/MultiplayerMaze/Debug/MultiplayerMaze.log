@@ -1,0 +1,8 @@
+﻿  Maze.cpp
+C:\Users\lb100\source\repos\MultiplayerMaze\MultiplayerMaze\Maze.cpp(473,26): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\lb100\source\repos\MultiplayerMaze\MultiplayerMaze\Maze.cpp(490,21): warning C4018: “>=”: 有符号/无符号不匹配
+  MultiplayerMaze.cpp
+C:\Users\lb100\source\repos\MultiplayerMaze\MultiplayerMaze\MultiplayerMaze.cpp(179,28): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lb100\source\repos\MultiplayerMaze\MultiplayerMaze\MultiplayerMaze.cpp(109,10): warning C4101: “b_finish”: 未引用的局部变量
+  正在生成代码...
+  MultiplayerMaze.vcxproj -> C:\Users\lb100\source\repos\MultiplayerMaze\Debug\MultiplayerMaze.exe
